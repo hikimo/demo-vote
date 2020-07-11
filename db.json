@@ -1,0 +1,19 @@
+{
+  "members": [
+    { 
+      "id": "567739",
+      "name": "Erika",
+      "has_vote_access": "true"
+    },
+    {
+      "id": "697738",
+      "name": "Shen",
+      "has_vote_access": "false"
+    },
+    {
+      "id": "122766",
+      "name": "Ray Manta",
+      "has_vote_access": "true"
+    }
+  ]
+}
